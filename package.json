@@ -25,11 +25,11 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/daniely-oliveira/meutudo-nodejs.git"
+    "url": "https://github.com/daniolivem/meutudo-nodejs.git"
   },
-  "homepage": "https://github.com/daniely-oliveira/meutudo-nodejs#readme",
+  "homepage": "https://github.com/daniolivem/meutudo-nodejs#readme",
   "bugs": {
-    "url": "https://github.com/daniely-oliveira/meutudo-nodejs/issues"
+    "url": "https://github.com/daniolivem/meutudo-nodejs/issues"
   },
   "engines": {
     "node": ">=18.0.0",

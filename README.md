@@ -16,7 +16,7 @@ Projeto desenvolvido durante o bootcamp DIO Node.js - MeuTudo. Aplicação para 
 
 ```bash
 # Clone este repositório
-git clone https://github.com/daniely-oliveira/meutudo-nodejs.git
+git clone https://github.com/daniolivem/meutudo-nodejs.git
 
 # Acesse a pasta do projeto
 cd meutudo-nodejs
@@ -43,7 +43,7 @@ Este projeto faz parte do bootcamp Node.js da Digital Innovation One (DIO) - Meu
 
 **Daniely Oliveira**
 - Email: danielymelo@aluno.uespi.br
-- GitHub: [@daniely-oliveira](https://github.com/daniely-oliveira)
+- GitHub: [@daniolivem](https://github.com/daniolivem)
 
 ## 📝 Licença
 
